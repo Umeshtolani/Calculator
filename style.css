@@ -1,0 +1,44 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.container{
+    border-radius: 50px;
+   background-color: black;
+   width: 400px;
+   height: 550px;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    border: 2px solid black;
+}
+.button{
+    background-color: rgb(255, 153, 0);
+     color: white;
+    width: 60px;
+    height: 60px;
+    padding: 10px;
+    margin: 8px 0px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#input-box{
+    margin: 10px;
+    width: 240px;
+    height: 35px;
+    border: 2px solid black;
+    
+
+}
+input{
+    font-size: 20px;
+   
+}
+h1{
+   color: rgb(255, 153, 0);
+}
